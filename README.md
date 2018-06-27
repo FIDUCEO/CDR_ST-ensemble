@@ -1,7 +1,7 @@
 # CDR_ST-ensemble
 CDR - Surface temperature ensemble - sea and lake
 /*
- * Copyright (C) <name> <date>
+ * Copyright (C) name> <date>
  * This code was developed for the EC project “Fidelity and Uncertainty in   
  *  Climate Data Records from Earth Observations (FIDUCEO)”. 
  * Grant Agreement: 638822
